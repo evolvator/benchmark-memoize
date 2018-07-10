@@ -6,16 +6,16 @@
   },
   "dependencies": {
     "async": "^2.6.1",
-    "benchmark": "2.1.4",
-    "fast-memoize": "^2.5.1",
+    "benchmark": "^2.1.4",
+    "fast-memoize": "2.5.1",
     "lodash": "4.17.10",
-    "lru-memoize": "^1.0.2",
-    "memoize-one": "^4.0.0",
-    "memoize-weak": "^1.0.2",
-    "memoizee": "^0.4.12",
-    "memoizerific": "^1.11.3",
-    "micro-memoize": "^2.0.3",
-    "moize": "^5.3.1",
+    "lru-memoize": "1.0.2",
+    "memoize-one": "4.0.0",
+    "memoize-weak": "1.0.2",
+    "memoizee": "0.4.12",
+    "memoizerific": "1.11.3",
+    "micro-memoize": "2.0.3",
+    "moize": "5.3.1",
     "travis-benchmark": "^0.1.2"
   }
 }
