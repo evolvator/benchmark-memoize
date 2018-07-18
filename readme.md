@@ -2,6 +2,8 @@
 
 What is the difference in speed for memoize packages?
 
+## [DEPRICATED](https://github.com/orgs/evolvator/projects?utf8=%E2%9C%93&query=is%3Aclosed+Tasks+v0)
+
 [![Build Status](https://travis-ci.org/evolvator/benchmark-memoize.svg?branch=code)](https://travis-ci.org/evolvator/benchmark-memoize)
 
 [Executable code](https://github.com/evolvator/benchmark-memoize/tree/code)
